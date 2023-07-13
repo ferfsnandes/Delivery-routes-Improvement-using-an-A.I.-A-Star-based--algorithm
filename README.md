@@ -1,8 +1,7 @@
-# InteligenciaArtificial
-Trabalho final da disciplina de Inteligência Artificial
-
-# Instalando dependências
-Execute no terminal
+# Delivery routes improvement using an A.I.(A* based) algorithm
+Final assignment of the Artificial Intelligence discipline
+# dependencies installation
+Execute on terminal
 ```shell
 pip install -r ./requirements.txt
 ```
